@@ -1,0 +1,16 @@
+# Compilados
+*.class
+
+# Build
+/out/
+/build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
